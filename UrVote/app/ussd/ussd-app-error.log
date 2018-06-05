@@ -1,0 +1,13 @@
+[28-Mar-2016 09:54:05 Europe/Berlin] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in C:\xampp\htdocs\UrVote\lib\ussd\MoUssdReceiver.php:45
+Stack trace:
+#0 C:\xampp\htdocs\UrVote\app\ussd\UrVote.php(23): MoUssdReceiver->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\UrVote\lib\ussd\MoUssdReceiver.php on line 45
+[28-Mar-2016 09:55:39 Europe/Berlin] PHP Notice:  Undefined index: menu-Opt in C:\xampp\htdocs\UrVote\app\ussd\UrVote.php on line 78
+[28-Mar-2016 09:59:29 Europe/Berlin] PHP Notice:  Undefined index: menu-Opt in C:\xampp\htdocs\UrVote\app\ussd\UrVote.php on line 78
+[28-Mar-2016 10:01:39 Europe/Berlin] PHP Notice:  Undefined index: menu-Opt in C:\xampp\htdocs\UrVote\app\ussd\UrVote.php on line 78
+[28-Mar-2016 10:04:03 Europe/Berlin] PHP Notice:  Undefined index: menu-Opt in C:\xampp\htdocs\UrVote\app\ussd\UrVote.php on line 78
+[28-Mar-2016 20:08:28 Europe/Berlin] PHP Notice:  Undefined index: menu-Opt in C:\xampp\htdocs\UrVote\app\ussd\UrVote.php on line 78
+[28-Mar-2016 20:13:44 Europe/Berlin] PHP Notice:  Undefined index: menu-Opt in C:\xampp\htdocs\UrVote\app\ussd\UrVote.php on line 78
+[30-Mar-2016 06:04:07 Europe/Berlin] PHP Notice:  Undefined index:  in C:\xampp\htdocs\UrVote\app\ussd\UrVote.php on line 243
+[30-Mar-2016 06:04:08 Europe/Berlin] PHP Notice:  Undefined index:  in C:\xampp\htdocs\UrVote\app\ussd\UrVote.php on line 244

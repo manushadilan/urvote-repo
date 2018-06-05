@@ -1,0 +1,146 @@
+[ content=#678*, address=tel:94771122336, requestId=1459151739356, applicationId=APP_000001, encoding=440, version=1.0, sessionId=44, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=2, address=tel:94771122336, requestId=1459151756340, applicationId=APP_000001, encoding=440, version=1.0, sessionId=44, ussdOperation=mo-cont ]
+Previous Menu is := main
+Selected response message := Do you agree with CEPA/ETCA
+                    1.Yes
+                    2.No
+					3.Other
+                    93.Back
+[ content=1, address=tel:94771122336, requestId=1459151766692, applicationId=APP_000001, encoding=440, version=1.0, sessionId=44, ussdOperation=mo-cont ]
+Previous Menu is := polit
+Selected response message := Your Vote has been Accepted.
+					99.Exit
+[ content=99, address=tel:94771122336, requestId=1459151836258, applicationId=APP_000001, encoding=440, version=1.0, sessionId=44, ussdOperation=mo-cont ]
+Previous Menu is := poli-hist
+[ content=#678#, address=tel:94771122335, requestId=1459151969714, applicationId=APP_000001, encoding=440, version=1.0, sessionId=66, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=1, address=tel:94771122335, requestId=1459151980203, applicationId=APP_000001, encoding=440, version=1.0, sessionId=66, ussdOperation=mo-cont ]
+Previous Menu is := main
+Selected response message := Select the Option:
+                    1.OS
+                    2.Brand
+                    93.Back
+[ content=1, address=tel:94771122335, requestId=1459151998387, applicationId=APP_000001, encoding=440, version=1.0, sessionId=66, ussdOperation=mo-cont ]
+Previous Menu is := mobi
+Selected response message := Give your Vote:
+					1.Android
+					2.Apple
+					3.Windows
+					4.Other
+                    93.Back
+[ content=2, address=tel:94771122335, requestId=1459152014842, applicationId=APP_000001, encoding=440, version=1.0, sessionId=66, ussdOperation=mo-cont ]
+Previous Menu is := osm
+Selected response message := Your Vote has been Accepted.
+					99.Exit
+[ content=99, address=tel:94771122335, requestId=1459152073162, applicationId=APP_000001, encoding=440, version=1.0, sessionId=66, ussdOperation=mo-cont ]
+Previous Menu is := ok
+[ content=#678#, address=tel:94771122335, requestId=1459152099690, applicationId=APP_000001, encoding=440, version=1.0, sessionId=222, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=1, address=tel:94771122335, requestId=1459152117993, applicationId=APP_000001, encoding=440, version=1.0, sessionId=222, ussdOperation=mo-cont ]
+Previous Menu is := main
+Selected response message := Select the Option:
+                    1.OS
+                    2.Brand
+                    93.Back
+[ content=1, address=tel:94771122335, requestId=1459152127162, applicationId=APP_000001, encoding=440, version=1.0, sessionId=222, ussdOperation=mo-cont ]
+Previous Menu is := mobi
+Selected response message := Give your Vote:
+					1.Android
+					2.Apple
+					3.Windows
+					4.Other
+                    93.Back
+[ content=4, address=tel:94771122335, requestId=1459152136170, applicationId=APP_000001, encoding=440, version=1.0, sessionId=222, ussdOperation=mo-cont ]
+Previous Menu is := osm
+Selected response message := Your Vote has been Accepted.
+					99.Exit
+[ content=99, address=tel:94771122335, requestId=1459152213114, applicationId=APP_000001, encoding=440, version=1.0, sessionId=222, ussdOperation=mo-cont ]
+Previous Menu is := ok
+[ content=#678#, address=tel:94771122339, requestId=1459152243873, applicationId=APP_000001, encoding=440, version=1.0, sessionId=66, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=1, address=tel:94771122339, requestId=1459152256041, applicationId=APP_000001, encoding=440, version=1.0, sessionId=66, ussdOperation=mo-cont ]
+Previous Menu is := main
+Selected response message := Select the Option:
+                    1.OS
+                    2.Brand
+                    93.Back
+[ content=2, address=tel:94771122339, requestId=1459152263825, applicationId=APP_000001, encoding=440, version=1.0, sessionId=66, ussdOperation=mo-cont ]
+Previous Menu is := mobi
+Selected response message := Give your Vote:
+					1.Samsung
+					2.HTC
+					3.IPhone
+					4.Other
+                    93.Back
+[ content=1, address=tel:94771122339, requestId=1459152278969, applicationId=APP_000001, encoding=440, version=1.0, sessionId=66, ussdOperation=mo-cont ]
+Previous Menu is := brd
+Selected response message := Your Vote has been Accepted.
+					99.Exit
+[ content=#678*, address=tel:94771122336, requestId=1459188507605, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=1, address=tel:94771122336, requestId=1459188537892, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main
+Selected response message := Select the Option:
+                    1.OS
+                    2.Brand
+                    93.Back
+[ content=2, address=tel:94771122336, requestId=1459188550065, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := mobi
+Selected response message := Give your Vote:
+					1.Samsung
+					2.HTC
+					3.IPhone
+					4.Other
+                    93.Back
+[ content=1, address=tel:94771122336, requestId=1459188566008, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := brd
+Selected response message := Your Vote has been Accepted.
+					99.Exit
+[ content=99, address=tel:94771122336, requestId=1459188578300, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := ok
+[ content=#678#, address=tel:94771122336, requestId=1459188824799, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=1, address=tel:94771122336, requestId=1459188835011, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main
+Selected response message := Select the Option:
+                    1.OS
+                    2.Brand
+                    93.Back
+[ content=1, address=tel:94771122336, requestId=1459188843129, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := mobi
+Selected response message := Give your Vote:
+					1.Android
+					2.Apple
+					3.Windows
+					4.Other
+                    93.Back
+[ content=3, address=tel:94771122336, requestId=1459188852331, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := osm
+Selected response message := Your Vote has been Accepted.
+					99.Exit
+[ content=#678*, address=tel:94771122336, requestId=1459310630208, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := ok
+[ content=1, address=tel:94771122336, requestId=1459310647934, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := ok
+Selected response message := 
+[ content=#678*, address=tel:94771122336, requestId=1459310712290, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=1, address=tel:94771122336, requestId=1459310723505, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main
+Selected response message := Select the Option:
+                    1.OS
+                    2.Brand
+                    93.Back
+[ content=2, address=tel:94771122336, requestId=1459310734612, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := mobi
+Selected response message := Give your Vote:
+					1.Samsung
+					2.HTC
+					3.IPhone
+					4.Other
+                    93.Back
+[ content=3, address=tel:94771122336, requestId=1459310747655, applicationId=APP_000001, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := brd
+Selected response message := Your Vote has been Accepted.
+					99.Exit
